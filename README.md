@@ -1,0 +1,3 @@
+# Tracking numbers for e-shop at www.flakon.cz
+
+This repository contains PHP mailer for sending e-mails about the tracking number. The file sledovacicisla.php contains the source code of the simple web page on which you can add a record about the tracking number of the order with the given identificator. The file viewtrackingnumber.php contains my source code of the web page on which you can see the tracking number of the order with the given identificator.
